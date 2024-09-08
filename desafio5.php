@@ -18,8 +18,6 @@
 
     <h4>Resposta:</h4>
 
-    <p>PASSO 1: Descobriria primeiro o interrupitor que acende a lampada da sala que estou. Descobrindo qual acende a minha sala, numeraria ele como SALA 1</p>
-    <p>PASSO 2: Acionaria o proximo interrupitor e me dirigiria a sala 2 e verificaria se a lamapada estava acesa. Voltaria para a sala 1 e, caso a lampada da sala 2 estivece acesa, numeraria aquele interrupitor como SALA 2</p>
 </body>
 
 </html>
